@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Method_Class_Assignment\bin\Debug\net7.0\Method_Class_Assignment.exe
+C:\Users\DELL\source\repos\Method_Class_Assignment\bin\Debug\net7.0\Method_Class_Assignment.deps.json
+C:\Users\DELL\source\repos\Method_Class_Assignment\bin\Debug\net7.0\Method_Class_Assignment.runtimeconfig.json
+C:\Users\DELL\source\repos\Method_Class_Assignment\bin\Debug\net7.0\Method_Class_Assignment.dll
+C:\Users\DELL\source\repos\Method_Class_Assignment\bin\Debug\net7.0\Method_Class_Assignment.pdb
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.dll
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\refint\Method_Class_Assignment.dll
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.pdb
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\Method_Class_Assignment.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Method_Class_Assignment\obj\Debug\net7.0\ref\Method_Class_Assignment.dll
